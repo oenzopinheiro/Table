@@ -63,7 +63,6 @@ button{
     font-style: italic;
     font-weight: 600;
     margin-top: 2.56rem;
-    margin-bottom: 3.94rem;
 } 
 
 .all{
@@ -87,7 +86,7 @@ button{
     }
 
     #table{
-        height: 30.9rem;
+        height: 31rem;
         margin-top: 1rem;
     }
 }
